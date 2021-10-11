@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RustysHeavyRailgun", "RustysHeavyRailgun.csproj", "{E530F78B-39D9-42A6-B000-CEE439EECEA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E530F78B-39D9-42A6-B000-CEE439EECEA1}.Debug|x64.ActiveCfg = Debug|x64
+		{E530F78B-39D9-42A6-B000-CEE439EECEA1}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A36A1E8-561B-4975-A1BD-6B1DA8422ACE}
+	EndGlobalSection
+EndGlobal
