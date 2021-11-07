@@ -64,6 +64,8 @@ namespace IngameScript
                 {
                     var warhead = block as IMyWarhead;
                     warhead?.StartCountdown();
+                    var timer = block as IMyTimerBlock;
+                    timer?.StartCountdown();
                     var functionblock = block as IMyFunctionalBlock;
                     if (functionblock != null)
                     {
